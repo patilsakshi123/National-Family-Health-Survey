@@ -190,9 +190,9 @@ Please credit **NFHS-5** data and the dashboard author when sharing.
 
 ---
 
-## ⭐ Star This File!
+## ⭐ Star This Repo!
 
-If you found this helpful, please **star ⭐ this File** and share with your network.  
+If you found this helpful, please **star ⭐ this Repo** and share with your network.  
 Let’s make public health data easy for everyone!
 
 ---
