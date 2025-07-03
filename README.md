@@ -186,7 +186,7 @@ Please credit **NFHS-5** data and the dashboard author when sharing.
 ## 👤 Author
 
 **Developed by:** SAKSHI PATIL  
-📧 sakshipandit0909@gmail.com
+📧 sakshipatil.nine@gmail.com
 
 ---
 
